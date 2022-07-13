@@ -1,0 +1,18 @@
+.sortButton {
+  background: black;
+  color: white;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 6rem;
+  margin-left: 1rem;
+  cursor: pointer;
+  transition: 0.3s ease-in;
+  box-shadow: 5px 5px 5px rgb(0 0 0 / 42%);
+  border: none;
+}
+.sortButton:hover {
+  background: #403b78;
+  color: white;
+  transform: scale(1.1);
+  font-weight: 400;
+}

@@ -1,0 +1,10 @@
+.primary-btn {
+  font-style: var(--font-sans);
+  text-decoration: none;
+  color: var(--color-light);
+  background-color: black;
+  padding: 0.6em 4em;
+  border-radius: 15px;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
